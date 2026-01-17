@@ -1,7 +1,7 @@
 <# :
 @echo off
 setlocal
-title Desinstalador Retail-S
+title Desinstalador Retail S
 
 REM 1. Checar privilégios de Administrador
 net session >nul 2>&1
